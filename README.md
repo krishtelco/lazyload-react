@@ -1,2 +1,2 @@
-# lazyload-react
+# React-lazy-load
 Created with CodeSandbox

@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.new {
+  height: 20vh;
+  width: 100vw;
+  margin-top: 25vh;
+  background-color: aquamarine;
+  border: brown;
+  border-style: dotted;
+}
